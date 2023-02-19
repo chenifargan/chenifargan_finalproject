@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553965026686",
+    "project_id": "chenifarganfinalproject",
+    "storage_bucket": "chenifarganfinalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553965026686:android:cb3636dd7b46baac46c72f",
+        "android_client_info": {
+          "package_name": "com.example.chenifargan_finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553965026686-rstd7hmjufe5b2creuvrc19nhe80ktkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp2_rc1MyGXUDBM9TUwvFkY781x4PDGMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553965026686-rstd7hmjufe5b2creuvrc19nhe80ktkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
